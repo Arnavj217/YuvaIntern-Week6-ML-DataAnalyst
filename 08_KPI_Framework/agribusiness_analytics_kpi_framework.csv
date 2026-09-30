@@ -1,0 +1,11 @@
+Dimension,KPI,Suggested target,Frequency,Owner,Evidence
+Data Quality,Missing-value rate,< 2% critical fields,Monthly,Data Engineering Lead,Quality dashboard
+Data Quality,Duplicate rate,< 0.5% natural-key duplicates,Monthly,Data Engineering Lead,Data-quality log
+Forecasting,MAE (yield),Set baseline from pilot; target improvement vs baseline,Per model release,ML Lead,Model evaluation report
+Forecasting,RMSE (yield),Track and reduce large-error events,Per model release,ML Lead,Model monitoring
+Forecasting,Segment MAE gap,Keep largest crop/state error gap within agreed tolerance,Quarterly,ML + Agribusiness,Segment scorecard
+Forecasting,Prediction coverage,> 95% of eligible observations receive valid prediction,Weekly,Analytics Ops,Pipeline dashboard
+Adoption,Dashboard active users,Define baseline during pilot; grow usage among target teams,Monthly,Product Owner,Usage analytics
+Business,Procurement planning variance,Reduce forecast-vs-actual procurement variance vs baseline,Seasonal,Procurement Head,Planning review
+Business,Storage utilization forecast error,Reduce avoidable capacity mismatch,Seasonal,Supply Chain Lead,Warehouse report
+Governance,Model drift review completion,100% scheduled reviews completed,Quarterly,ML Governance,Model card/review log

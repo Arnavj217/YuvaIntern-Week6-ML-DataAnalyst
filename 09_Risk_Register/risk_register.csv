@@ -1,0 +1,9 @@
+Risk,Description,Likelihood,Impact,Mitigation
+Data quality,"Missing, inconsistent or delayed data",High,High,Automated validation; data dictionary; ownership; quality SLAs
+Temporal leakage,Future information enters model training,High,High,Chronological splits; time-series CV; pipeline controls
+Regional bias,Model works better for some crops/states,Medium,High,Segment metrics; regional validation; targeted data collection
+Model drift,"Relationships change due to weather, technology or markets",High,High,Drift monitoring; scheduled review; retraining triggers
+Technology adoption,Users do not integrate forecasts into workflows,Medium,High,Co-design with users; explainability; pilot champions; training
+Infrastructure cost,Sensors/cloud/data integration become expensive,Medium,Medium,Stage-gate investment; ROI tracking; prioritize high-value use cases
+Cyber/privacy,Unauthorized access or misuse of farm/transaction data,Medium,High,Least privilege; encryption; access logs; data minimization
+Synthetic pilot limitation,Pilot performance does not represent real-world accuracy,High,High,Validate with official and operational data before deployment

@@ -1,0 +1,19 @@
+Slide,Section,Headline,Key content
+1,Title,Future Agribusiness Analytics Enhancement Strategy,Internship synthesis and strategic vision
+2,Executive Summary,What was built across Weeks 1–5,Research → data → EDA → ML → evaluation
+3,Problem Context,Why agribusiness needs integrated analytics,"Weather, production, markets, operational uncertainty"
+4,Week 1,Strategic research foundation,"Data sources, scope, methodology, risks"
+5,Week 2,Data engineering foundation,"Cleaning, quality, reproducibility"
+6,Week 3,EDA insights,"Trends, crop/state differences, relationships"
+7,Week 4,ML model development,"Yield prediction, feature engineering, model selection"
+8,Week 5,Evaluation & optimization,"MAE/RMSE/R², time-aware validation, error analysis"
+9,Strategic Gap,From analysis to decisions,"Need integrated pipelines, dashboards, alerts and governance"
+10,Future Architecture,Data → analytics → decisions → business,Unified architecture
+11,Priority Use Cases,"Procurement, storage, logistics, risk",Actionable applications
+12,Smart Technology,"IoT, remote sensing, geospatial analytics",Future data expansion
+13,Advanced Analytics,"Probabilistic forecasts, scenarios, optimization",Next-generation analytics
+14,Governance,"Data quality, security, model monitoring",Responsible scaling
+15,Roadmap,0–30 days to 24 months,Stage-gated implementation
+16,KPIs,How success will be measured,Technical + business KPIs
+17,Risks,What can go wrong,Mitigations
+18,Conclusion,Strategic recommendation,Build a measured decision-intelligence capability
